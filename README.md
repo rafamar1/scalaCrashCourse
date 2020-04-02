@@ -1,0 +1,2 @@
+# scalaCrashCourse
+Projects learning Scala
